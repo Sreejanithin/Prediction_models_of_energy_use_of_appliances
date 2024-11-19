@@ -1,4 +1,5 @@
 **Appliances_Energy_prediction_ML_Model_Regression**
+
 Appliance energy prediction using linear regression models Capstone-Project-On-Appliance_Energy_Prediction Introduction
 
 In today's world, the use of energy is quickly expanding. We are experiencing a lack of energy as a result of increased energy consumption in some regions of the world, which is causing environmental damage. We are dealing with excessive energy consumption in home appliances in some places, so our main goal in this project is to analyze what factors are influencing the increasing energy consumption of home appliances, how we can reduce energy consumption of home appliances, and predict energy consumption of appliances using regression models. This project will analyze the Energy dataset using visualizations and graphs created with Python packages such as sklearn, matplotlib, Seaborn, and Eli5.
